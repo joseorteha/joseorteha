@@ -18,7 +18,7 @@
 
 - :school: I am a `Junior` at [Instituto Tecnologico superior de Zonzolica](https://zongolica.tecnm.mx/)
 - :technologist: **Currently I am studying** `and I learn from my own account` **&** `autodidact`
-- :boom: You can visit [MY WEBSITE](https://joseorteha.github.io/MyPortafolio/portafolio/) for some my projects
+- :boom: You can visit [MY WEBSITE](https://joseorteha.github.io/MyPortafolio/index) for some my projects
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=José%20Ortega&color=EA4335&style=flat-square)](mailto:joseortegaha@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
