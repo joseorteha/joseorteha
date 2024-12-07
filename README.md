@@ -17,7 +17,7 @@
 
 - :school: Soy estudiante `de nivel Junior` en el [Instituto Tecnológico Superior de Zongolica](https://zongolica.tecnm.mx/).
 - :technologist: **Actualmente estudio** `y aprendo de forma autodidacta`.
-- :boom: Puedes visitar [MI SITIO WEB](https://joseorteha.github.io/MyPortafolio/index) para ver algunos de mis proyectos.
+- :boom: Puedes visitar [MI SITIO WEB](https://jose-ortega.netlify.app/) para ver algunos de mis proyectos.
 - :email: No dudes en **contactarme** [![Envíame un correo](https://img.shields.io/static/v1?label=email&message=José%20Ortega&color=EA4335&style=flat-square)](mailto:joseortegaha@gmail.com).
 - :nerd_face: Siempre creo en que `"Eres lo que amas"`.
 
