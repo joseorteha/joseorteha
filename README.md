@@ -105,8 +105,8 @@
 <!--profile visit count-->
 
 <div align="center">
-[![](https://visitcount.itsvg.in/api?id=joseorteha&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
-</div>
+[![](https://visitcount.itsvg.in/api?id=joseorteha)](https://visitcount.itsvg.in)
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
