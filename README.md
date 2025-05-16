@@ -14,7 +14,7 @@
 
 - 👨‍🎓 Estudiante de nivel Junior en [Instituto Tecnológico Superior de Zongolica](https://zongolica.tecnm.mx/).
 - 🧑‍💻 Aprendiz autodidacta de desarrollo web, análisis de datos y tecnologías emergentes.
-- 🌐 Explora mis proyectos en mi [sitio web](https://jose-ortega.netlify.app/).
+- 🌐 Explora mis proyectos en mi [sitio web](https://jose-ortega-dev.netlify.app/).
 - ✉️ Contáctame: [![Envíame un correo](https://img.shields.io/static/v1?label=email&message=José%20Ortega&color=EA4335&style=flat-square)](mailto:joseortegaha@gmail.com).
 - 💡 Filosofía: `"Eres lo que amas"`.
 
