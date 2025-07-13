@@ -117,5 +117,18 @@ Mi emprendimiento más reciente es <a href="https://cybercodigo-seven.vercel.app
 
 <p align="center">
   <b>Créditos:</b> <a href="https://github.com/joseorteha">José Ortega</a> <br/>
-  <i>Última edición: 13/09/2024</i>
+  <i>Última edición: 12/07/2025</i>
 </p>
+
+---
+
+## 🌐 Redes sociales
+
+<p align="center">
+  <a href="https://www.instagram.com/mr.orteg4/#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/joseortega.exe1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com/in/jose-orteg4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.tiktok.com/@cyber_codigo" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+</p>
+
+---
