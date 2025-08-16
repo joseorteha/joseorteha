@@ -14,8 +14,5 @@ jobs:
       - uses: actions/checkout@v3
       - uses: cyprieng/github-breakout@main
         with:
+          github_username: joseorteha
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          user_name: joseorteha
-          branch_name: "main"
-          output_path_light: "breakout-light.svg"
-          output_path_dark: "breakout-dark.svg"
