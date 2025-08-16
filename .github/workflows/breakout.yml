@@ -1,0 +1,21 @@
+name: GitHub Breakout
+
+on:
+  schedule:
+    # Runs every day at midnight.
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-svg:
+    name: Update breakout SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: cyprieng/github-breakout@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: joseorteha
+          branch_name: "main"
+          output_path_light: "breakout-light.svg"
+          output_path_dark: "breakout-dark.svg"

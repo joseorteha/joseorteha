@@ -1,6 +1,6 @@
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Desarrollador animado" width="100%" style="max-width: 600px; border-radius: 12px;"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Desarrollador animado" width="50%" style="max-width: 600px; border-radius: 12px;"/>
 </p>
 
 <h1 align="center">¡Hola, soy José Ortega! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="32"/></h1>
@@ -112,6 +112,16 @@ Mi emprendimiento más reciente es <a href="https://cybercodigo-seven.vercel.app
 
 ---
 
+## 🚀 GitHub Breakout
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="breakout-light.svg" />
+  <img alt="GitHub Breakout" src="breakout-light.svg" />
+</picture>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=joseorteha&color=blue&style=flat-square" alt="Profile Views" />
 </div>
@@ -120,7 +130,7 @@ Mi emprendimiento más reciente es <a href="https://cybercodigo-seven.vercel.app
 
 <p align="center">
   <b>Créditos:</b> <a href="https://github.com/joseorteha">José Ortega</a> <br/>
-  <i>Última edición: 12/07/2025</i>
+  <i>Última edición: 15/08/2025</i>
 </p>
 
 ---
