@@ -115,9 +115,9 @@ Mi emprendimiento más reciente es <a href="https://cybercodigo-seven.vercel.app
 ## 🚀 GitHub Breakout
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="breakout-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="breakout-light.svg" />
-  <img alt="GitHub Breakout" src="breakout-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="output/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="output/light.svg" />
+  <img alt="GitHub Breakout" src="output/light.svg" />
 </picture>
 
 ---
