@@ -2,8 +2,8 @@ name: GitHub Breakout
 
 on:
   schedule:
-    # Runs every day at midnight.
-    - cron: "0 0 * * *"
+    # Runs on the 1st of every month at midnight.
+    - cron: "0 0 1 * *"
   workflow_dispatch:
 
 jobs:
