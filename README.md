@@ -14,7 +14,7 @@
 
 ¡Bienvenido a mi perfil! Soy estudiante en el <a href="https://zongolica.tecnm.mx/" target="_blank">Instituto Tecnológico Superior de Zongolica</a>, apasionado por el desarrollo web, el análisis de datos y las tecnologías emergentes. Me encanta aprender, crear proyectos y compartir conocimiento. En mi portafolio puedes conocer más sobre mi trayectoria, proyectos y certificaciones.
 
-- 🌐 Portafolio: [jose-ortega-dev.netlify.app](https://www.joseortega.lat/)
+- 🌐 Portafolio: [joseortega.lat](https://www.joseortega.lat/)
 - 📧 Contacto: [joseortegaha@gmail.com](mailto:joseortegaha@gmail.com)
 - 💡 Filosofía: "Eres lo que amas."
 
