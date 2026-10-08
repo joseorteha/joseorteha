@@ -1,0 +1,40 @@
+name: update-profile-art
+
+# Regenera el heatmap y la tarjeta de stats cada dia con tus contribuciones.
+# El retrato ASCII NO se regenera aqui (tu foto no cambia): se genera una vez
+# en local y se sube al repo.
+
+on:
+  schedule:
+    - cron: "17 6 * * *"   # todos los dias 06:17 UTC
+  workflow_dispatch: {}     # permite correrlo a mano desde la pestana Actions
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias minimas
+        run: pip install requests beautifulsoup4
+
+      - name: Bajar contribuciones
+        run: python scripts/fetch_contributions.py ${{ github.repository_owner }}
+
+      - name: Render heatmap + stats
+        run: |
+          python scripts/render_heatmap_svg.py
+          python scripts/render_stats_svg.py
+
+      - name: Commit si hubo cambios
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: actualiza arte del perfil [skip ci]"
+          file_pattern: "contrib-heatmap.svg stats.svg data/contributions.json"

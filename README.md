@@ -1,148 +1,145 @@
-<!-- Banner principal -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Desarrollador animado" width="50%" style="max-width: 600px; border-radius: 12px;"/>
-</p>
-
-<h1 align="center">¡Hola, soy José Ortega! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="32"/></h1>
-
-<p align="center"><b>Desarrollador web, estudiante y entusiasta de la tecnología.</b></p>
-<p align="center">"Hoy comienza una nueva etapa: ¡emprender, crear y compartir! Si puedes soñarlo, puedes programarlo."</p>
-
----
-
-## 🙋‍♂️ Sobre mí
-
-¡Bienvenido a mi perfil! Soy estudiante en el <a href="https://zongolica.tecnm.mx/" target="_blank">Instituto Tecnológico Superior de Zongolica</a>, apasionado por el desarrollo web, el análisis de datos y las tecnologías emergentes. Me encanta aprender, crear proyectos y compartir conocimiento. En mi portafolio puedes conocer más sobre mi trayectoria, proyectos y certificaciones.
-
-- 🌐 Portafolio: [joseortega.lat](https://www.joseortega.lat/)
-- 📧 Contacto: [joseortegaha@gmail.com](mailto:joseortegaha@gmail.com)
-- 💡 Filosofía: "Eres lo que amas."
-
----
-
-## 🏆 Proyectos Destacados
-
-### 🚀 Cyber Código
-
-Mi emprendimiento más reciente es <a href="https://cybercodigo-seven.vercel.app/" target="_blank">Cyber Código</a>, una startup nacida en Zongolica, Veracruz, con la misión de llevar el talento local al mundo digital. Creamos páginas web de alto impacto para negocios y emprendedores, impulsando el crecimiento local con tecnología y diseño.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
 <div align="center">
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> Lenguajes
+<!-- =====================================================================
+  Perfil estilo terminal. Todo el movimiento vive dentro de SVGs porque
+  GitHub elimina <script> y CSS del README, pero SI renderiza SVGs (via
+  <img>) y ejecuta sus animaciones. El heatmap y las stats se regeneran
+  solos cada dia con .github/workflows/update-profile-art.yml
+====================================================================== -->
 
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<h3><code>jose@github ~ $ whoami</code></h3>
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> Frontend
-
-<a href="#"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24"/> Backend y bases de datos
-
-<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/></a>
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> Herramientas y diseño
-
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=white"/></a>
-
-</div>
-
----
-
-## 🖥️ Sistemas operativos y virtualización
-
-<div align="center">
-<a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/></a>
-</div>
-
-<p align="center">
-  <b>Experiencia trabajando con máquinas virtuales y entornos de servidores Linux.</b>
-</p>
-
----
-
-## 📈 Estadísticas y logros
-
+<!-- ===== HERO: retrato ASCII (anima al cargar) junto al nombre + bio ===== -->
 <table>
 <tr>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=joseorteha&theme=dark&show_icons=true&count_private=true" />
+<td valign="middle" width="40%">
+<img src="./jose-ascii.svg" width="100%" alt="José Ortega — retrato ASCII animado" />
 </td>
-<td width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseorteha&theme=dark&hide_border=false" />
+<td valign="middle" width="60%" align="left">
+
+<h1>José Ortega</h1>
+
+<b>⚡ Desarrollador de Software · Web · Mobile · IA</b>
+
+<p>
+Desarrollador de software de <b>Zongolica, Veracruz</b>. Curso el 9.º semestre de
+Ingeniería en Sistemas Computacionales y trabajo como <b>desarrollador web en el
+H. Ayuntamiento de Zongolica</b>, construyendo soluciones reales para mi región.
+</p>
+<p>
+Me gusta llevar una idea de principio a fin —web, móvil, backend, bases de datos e
+<b>inteligencia artificial</b>— y usar la tecnología para resolver problemas de mi
+comunidad. Aprendo, construyo y compito, siempre buscando el siguiente reto.
+</p>
+
 </td>
 </tr>
 </table>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=joseorteha&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
+<br>
 
----
+<h3><code>jose@github ~ $ ls ./proyectos</code></h3>
 
-## 🚀 GitHub Breakout
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="output/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="output/light.svg" />
-  <img alt="GitHub Breakout" src="output/light.svg" />
-</picture>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=joseorteha&color=blue&style=flat-square" alt="Profile Views" />
-</div>
-
----
-
-<p align="center">
-  <b>Créditos:</b> <a href="https://github.com/joseorteha">José Ortega</a> <br/>
-  <i>Última edición: 16/09/2025</i>
+<p align="left">
+📍 <b><a href="https://github.com/joseorteha/LocalizaT">LocalizaT</a></b> — Plataforma comunitaria que conecta a quien perdió un objeto con quien lo encontró. Usa <b>IA</b> para comparar características, descripciones, lugares y fechas y proponer posibles coincidencias.<br>
+🤖 <b><a href="https://agroasistente.joseortega.lat/">AgroAsistente</a></b> — Consultor agrónomo virtual con <b>IA</b> para pequeños y medianos productores de café y cultivos de ladera.
 </p>
 
----
+<br>
 
-## 🌐 Redes sociales
+<h3><code>jose@github ~ $ cat stack.txt</code></h3>
 
-<p align="center">
-  <a href="https://www.instagram.com/mr.orteg4/#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.facebook.com/joseortega.exe1" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.linkedin.com/in/jose-orteg4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.tiktok.com/@cyber_codigo" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+<table>
+<tr>
+<td align="right"><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Astro-0d1117?style=flat-square&logo=astro&logoColor=FF5D01" />
+<img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" />
+<img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=44B78B" />
+<img src="https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>Data &amp; Infra</b></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/MariaDB-0d1117?style=flat-square&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3FCF8E" />
+<img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624" />
+</td>
+</tr>
+<tr>
+<td align="right"><b>Mobile &amp; Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-0d1117?style=flat-square&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Electron-0d1117?style=flat-square&logo=electron&logoColor=47848F" />
+<img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" />
+</td>
+</tr>
+</table>
+
+<br>
+
+<h3><code>jose@github ~ $ cat logros.txt</code></h3>
+
+<p>
+🏆 Con el equipo <b>Siera Code</b> en el <b>Hackathon Innovatec</b> del <b>TecNM</b>:
+</p>
+<p>
+🥉 <b>3.<sup>er</sup> lugar nacional</b> · Innovatec 2025 &nbsp;&nbsp;&nbsp; 🥇 <b>1.<sup>er</sup> lugar · etapa local</b> · Innovatec 2026
 </p>
 
----
+<br>
+<br>
+
+<!-- ===== bloque de actividad: stats + heatmap (datos reales, diarios) ===== -->
+
+<h3><code>jose@github ~ $ ./stats.sh</code></h3>
+
+<img src="./stats.svg" width="420" alt="Stats y racha de José — actualizado a diario" />
+
+<br>
+<br>
+
+<h3><code>jose@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Gráfico de contribuciones de José — actualizado a diario" />
+
+<br>
+<br>
+
+<h3><code>jose@github ~ $ ./links.sh</code></h3>
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-joseortega.lat-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.joseortega.lat/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jose--orteg4-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-orteg4/)
+[![Instagram](https://img.shields.io/badge/Instagram-mr.orteg4-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.orteg4/)
+[![TikTok](https://img.shields.io/badge/TikTok-cyber__codigo-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@cyber_codigo)
+[![Email](https://img.shields.io/badge/Email-joseortegahac-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:joseortegahac@gmail.com)
+
+<br>
+
+<sub><code>jose@github ~ $</code> <i>"Eres lo que amas."</i> <code>_</code></sub>
+
+<br>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=joseorteha&style=flat-square&color=006d32&label=Visitas+al+perfil" alt="Visitas al perfil" />
+<img src="https://img.shields.io/github/last-commit/joseorteha/joseorteha?style=flat-square&color=006d32&label=Última+actualización" alt="Última actualización" />
+
+</div>

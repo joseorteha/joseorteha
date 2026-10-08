@@ -1,0 +1,12 @@
+# Datos de contribuciones (obligatorio)
+requests>=2.31
+beautifulsoup4>=4.12
+
+# Retrato ASCII (obligatorio para make_ascii_svg.py)
+Pillow>=10.0
+numpy>=1.26
+
+# Limpieza de foto - quitar fondo (opcional; si no instala, prep_photo.py
+# funciona igual sin quitar el fondo)
+# rembg>=2.0
+# opencv-python>=4.9
