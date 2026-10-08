@@ -140,6 +140,6 @@ comunidad. Aprendo, construyo y compito, siempre buscando el siguiente reto.
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=joseorteha&style=flat-square&color=006d32&label=Visitas+al+perfil" alt="Visitas al perfil" />
-<img src="https://img.shields.io/github/last-commit/joseorteha/joseorteha?style=flat-square&color=006d32&label=Última+actualización" alt="Última actualización" />
+<img src="https://img.shields.io/github/last-commit/joseorteha/joseorteha?style=flat-square&color=006d32&label=%C3%9Altima%20actualizaci%C3%B3n" alt="Última actualización" />
 
 </div>
