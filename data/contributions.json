@@ -1,42 +1,7 @@
 {
   "username": "joseorteha",
-  "generated_at": "2026-10-31T12:30:44.537752+00:00",
+  "generated_at": "2026-11-01T13:25:32.676071+00:00",
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-27",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-28",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-10-29",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "date": "2025-10-30",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-10-31",
-      "count": 24,
-      "level": 2
-    },
-    {
-      "date": "2025-11-01",
-      "count": 1,
-      "level": 1
-    },
     {
       "date": "2025-11-02",
       "count": 0,
@@ -1854,13 +1819,18 @@
     },
     {
       "date": "2026-10-31",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-01",
       "count": 0,
       "level": 0
     }
   ],
-  "total": 2358,
-  "longest_streak": 26,
-  "current_streak": 26,
+  "total": 2330,
+  "longest_streak": 27,
+  "current_streak": 27,
   "max_day": {
     "count": 156,
     "date": "2026-03-19"
